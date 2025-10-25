@@ -14,6 +14,8 @@
 # Leetcode Stats:
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Swastik_25?theme=unicorn&font=JetBrains%20Mono)
 
+![GeeksforGeeks Stats](https://gfgstatscard.vercel.app/swastik25?theme=dark)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
