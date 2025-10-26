@@ -28,9 +28,9 @@
 <td width="50%">
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/swastik-mishra25/swastik-mishra25/refs/heads/main/assests/Talentify.gif" width="80"/>
+<img src="https://raw.githubusercontent.com/swastik-mishra25/swastik-mishra25/refs/heads/main/assests/Talentify.gif" width="90"/>
 
-### **📚 EduX Platform**
+### **📝 TALENTIFY.AI RESUME ANALYZER**
 [![Live Demo](https://img.shields.io/badge/🚀%20LIVE%20DEMO-FF6B6B?style=for-the-badge&logo=rocket)](https://ai-resume-analyzer-three-black.vercel.app/)
 
 **⚡ POWER FEATURES:**
