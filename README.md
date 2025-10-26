@@ -50,67 +50,28 @@
 <td width="50%">
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" width="80"/>
+<img src="https://raw.githubusercontent.com/swastik-mishra25/swastik-mishra25/refs/heads/main/assests/Echo%20Quill%20Updated%20%E2%80%93%20Full-Stack%20AI%20Story%20Generator.gif" width="80"/>
 
-### **💬 ChattX Messenger**
-[![Live Demo](https://img.shields.io/badge/🚀%20LIVE%20DEMO-4ECDC4?style=for-the-badge&logo=rocket)](https://chatt-x.vercel.app/)
+### **✨ Echo Quill – Full-Stack AI Story Generator**
+[![Live Demo](https://img.shields.io/badge/🚀%20LIVE%20DEMO-4ECDC4?style=for-the-badge&logo=rocket)](https://echo-quill-project.vercel.app/)
 
-**⚡ POWER FEATURES:**
-- 🌐 **1000+ Concurrent Users** support
-- 👥 **50-Member Groups** with admin controls
-- 📎 **200MB File Sharing** capability
-- ⚡ **99.9% Uptime** with error handling
-- 🔔 **Real-time Notifications** system
+**⚡ POWER FEATURES:**  
+- 📝 **AI-Powered Story Generation** with dynamic themes, genres, and tones  
+- 🎨 **Customizable Story Length & Style** for creative flexibility  
+- 🌙 **Light & Dark Mode** toggle for better user experience  
+- 💾 **Local Storage Support** to save favorite stories  
+- 🚀 **Responsive & Interactive UI** built with React + Tailwind CSS  
+- 🔄 **Backend API with FastAPI** for real-time story processing  
+- 🤖 **LangChain Integration** for advanced AI content generation  
+- ⚡ **Fast & Scalable Deployment** using Uvicorn & Gunicorn  
 
-**🛡️ TECH STACK:** React • Socket.io • Material UI • Node.js
-
-</div>
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/219923760-e2b3b6cd-15b9-4d7d-871e-c3b153bd4a35.gif" width="80"/>
-
-### **🏠 Real Estate AI**
-[![GitHub](https://img.shields.io/badge/⚡%20SOURCE%20CODE-000000?style=for-the-badge&logo=github)](https://github.com/Anshuman123-dev/Gurgaon-Property-Assistant)
-
-**⚡ POWER FEATURES:**
-- 🤖 **ML Price Prediction** with 85% accuracy
-- 🗺️ **Geospatial Dashboards** with Plotly
-- 📈 **50K+ Properties** analyzed
-- 🚀 **40% Faster Loading** with caching
-- 📊 **Interactive Visualizations** for insights
-
-**🛡️ TECH STACK:** Streamlit • Scikit-learn • Plotly • Pandas
-
-</div>
-
-</td>
-<td width="50%">
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/219923773-7ad60948-0bb2-4f0d-9b07-2ad8e48d5468.gif" width="80"/>
-
-### **🎮 More Epic Projects**
-[![Portfolio](https://img.shields.io/badge/🌟%20VIEW%20ALL-FFD700?style=for-the-badge&logo=google-chrome)](https://portfolio-theta-two-22.vercel.app/)
-
-**⚡ ADDITIONAL BUILDS:**
-- 🛒 **E-Commerce Platform** - Full MERN Stack
-- 🌤️ **Weather App** - API Integration
-- 📝 **Task Manager** - React with LocalStorage
-- 🎵 **Music Player** - JavaScript & Web Audio API
-- 🔗 **URL Shortener** - Node.js Backend
-
-**🏆 TOTAL IMPACT:** 10,000+ users across all projects
+**🛡️ TECH STACK:**  
+React • Tailwind CSS • Vite • FastAPI • Python • LangChain • Uvicorn • Gunicorn • python-dotenv  
 
 </div>
 
 </td>
 </tr>
-</table>
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
@@ -118,6 +79,7 @@
 
 # ⚔️CODING BATTLEGROUNDS
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Swastik_25?theme=unicorn&font=JetBrains%20Mono)
+
 ![GeeksforGeeks Stats](https://gfgstatscard.vercel.app/swastik25?theme=dark)
 
 ### ✍️ Random Dev Quote
