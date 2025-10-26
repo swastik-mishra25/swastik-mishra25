@@ -2,11 +2,10 @@
 🔭 I’m currently working on Full Stack Development.<br>👯 I’m looking to collaborate on Full Stack Projects.<br>🌱 I’m currently learning DSA in C++.<br>💬 Ask me about Frontend Development<br>🐴 Ever since I was 10, horse riding’s caught my interest!
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=swastik-mishra25&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge&logo=eye" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/swastik-mishra25?label=FOLLOWERS&style=for-the-badge&color=blue&logo=github" alt="Followers" />
+ <img src="https://img.shields.io/github/followers/swastik-mishra25?label=FOLLOWERS&style=for-the-badge&color=blue&logo=github" alt="Followers" />
   <img src="https://img.shields.io/badge/STATUS-OPEN%20FOR%20OPPORTUNITIES-brightgreen?style=for-the-badge&logo=github-sponsors" alt="Status" />
   <img src="https://img.shields.io/badge/LEETCODE-WARRIOR-orange?style=for-the-badge&logo=leetcode" alt="LeetCode" />
 </p>
-
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/swastik_mishra25) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/swastik_mishra25) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/swastik-mishra-626b41298) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/user:31028249) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mishraswastik6@gmail.com) 
@@ -17,11 +16,9 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=swastik-mishra25&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=swastik-mishra25&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=swastik-mishra25&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=swastik-mishra25&theme=tokyonight&hide_border=false&include_all_commits=false&layout=compact)
 
-### 🎯 **PRIME PROJECTS**
-
-</div>
+### 🎯 PRIME PROJECTS
 
 <table>
 <tr>
@@ -33,17 +30,15 @@
 ### **📝 TALENTIFY.AI RESUME ANALYZER**
 [![Live Demo](https://img.shields.io/badge/🚀%20LIVE%20DEMO-FF6B6B?style=for-the-badge&logo=rocket)](https://ai-resume-analyzer-three-black.vercel.app/)
 
-**⚡ POWER FEATURES:**
-- 🧠 **AI-Powered Resume Parsing** with intelligent skill extraction
-- 📄 **PDF Upload & Analysis** using integrated PDF.js
-- 🧩 **Modular Architecture** powered by React Router v7
-- 🎨 **Dynamic UI & Animations** built with Tailwind CSS 4 + Animate CSS
-- 🧭 **State Management** via lightweight Zustand store
-- 🐳 **Dockerized Setup** for easy deployment
+**⚡ POWER FEATURES:**  
+- 🧠 **AI Resume Parsing** with skill extraction  
+- 📄 **PDF Upload & Analysis** via PDF.js  
+- 🧩 **Modular Architecture** with React Router v7  
+- 🎨 **Dynamic UI & Animations** with Tailwind CSS + Animate CSS  
+- 🧭 **State Management** using Zustand  
+- 🐳 **Dockerized Setup** for easy deployment  
 
 **🛡️ TECH STACK:** React 19 • TypeScript • Vite • Tailwind CSS 4 • React Router v7 • Zustand • Docker
-
-
 </div>
 
 </td>
@@ -56,28 +51,28 @@
 [![Live Demo](https://img.shields.io/badge/🚀%20LIVE%20DEMO-4ECDC4?style=for-the-badge&logo=rocket)](https://echo-quill-project.vercel.app/)
 
 **⚡ POWER FEATURES:**  
-- 📝 **AI-Powered Story Generation** with dynamic themes, genres, and tones  
-- 🎨 **Customizable Story Length & Style** for creative flexibility  
-- 🌙 **Light & Dark Mode** toggle for better user experience  
-- 💾 **Local Storage Support** to save favorite stories  
-- 🚀 **Responsive & Interactive UI** built with React + Tailwind CSS  
-- 🔄 **Backend API with FastAPI** for real-time story processing  
-- 🤖 **LangChain Integration** for advanced AI content generation  
-- ⚡ **Fast & Scalable Deployment** using Uvicorn & Gunicorn  
+- 📝 **AI Story Generation** with dynamic themes & genres  
+- 🎨 **Custom Story Length & Style**  
+- 🌙 **Light/Dark Mode** toggle  
+- 💾 **Save stories** with Local Storage  
+- 🚀 **Responsive UI** built with React + Tailwind CSS  
+- 🔄 **FastAPI Backend** for real-time processing  
+- 🤖 **LangChain Integration** for AI content  
+- ⚡ **Scalable Deployment** with Uvicorn & Gunicorn   
 
 **🛡️ TECH STACK:**  
 React • Tailwind CSS • Vite • FastAPI • Python • LangChain • Uvicorn • Gunicorn • python-dotenv  
-
 </div>
 
 </td>
 </tr>
+</table>
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
 
-# ⚔️CODING BATTLEGROUNDS
+# ⚔️ CODING BATTLEGROUNDS
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Swastik_25?theme=unicorn&font=JetBrains%20Mono)
 
 ![GeeksforGeeks Stats](https://gfgstatscard.vercel.app/swastik25?theme=dark)
