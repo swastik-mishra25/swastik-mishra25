@@ -73,7 +73,8 @@ React • Tailwind CSS • Vite • FastAPI • Python • LangChain • Uvicorn
 </div>
 
 # ⚔️ CODING BATTLEGROUNDS
-![LeetCode Stats](https://leetcard.jacoblin.cool/Swastik_25?theme=unicorn&font=JetBrains%20Mono)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Swastik_25?theme=dark&font=JetBrains%20Mono&ext=contest,badge)](https://leetcode.com/Swastik_25/)
+
 
 ![GeeksforGeeks Stats](https://gfgstatscard.vercel.app/swastik25?theme=dark)
 
