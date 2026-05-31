@@ -57,7 +57,7 @@
 <img src="https://raw.githubusercontent.com/swastik-mishra25/swastik-mishra25/refs/heads/main/assests/Echo%20Quill%20Updated%20%E2%80%93%20Full-Stack%20AI%20Story%20Generator.gif" width="80"/>
 
 ### **✨ Echo Quill – Full-Stack AI Story Generator**
-[![Live Demo](https://img.shields.io/badge/🚀%20LIVE%20DEMO-4ECDC4?style=for-the-badge&logo=rocket)](https://echo-quill-project.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/🚀%20LIVE%20DEMO-4ECDC4?style=for-the-badge&logo=rocket)](https://echo-quill.vercel.app/)
 
 **⚡ POWER FEATURES:**  
 - 📝 **AI Story Generation** with dynamic themes & genres  
