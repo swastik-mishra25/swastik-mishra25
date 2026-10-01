@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on Full Stack Development.<br>👯 I’m looking to collaborate on Full Stack Projects.<br>🌱 I’m currently learning DSA in C++.<br>💬 Ask me about Frontend Development<br>🐴 Ever since I was 10, horse riding’s caught my interest!
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=swastik-mishra25&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge&logo=eye" alt="Profile Views" />
+  <!-- <img src="https://komarev.com/ghpvc/?username=swastik-mishra25&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge&logo=eye" alt="Profile Views" /> -->
   <img src="https://img.shields.io/github/followers/swastik-mishra25?label=FOLLOWERS&style=for-the-badge&color=blue&logo=github" alt="Followers" />
   <img src="https://img.shields.io/badge/STATUS-OPEN%20FOR%20OPPORTUNITIES-brightgreen?style=for-the-badge&logo=github-sponsors" alt="Status" />
   <img src="https://img.shields.io/badge/LEETCODE-WARRIOR-orange?style=for-the-badge&logo=leetcode" alt="LeetCode" />
